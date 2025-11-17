@@ -10,7 +10,9 @@ A Python-based scraper to fetch movie ratings, titles, and other details from IM
 - Easy to run and extend for personal projects or research.
 
 ## Technologies Used
-- Python 3.x
+- Python 3.10
+- ChromeDriver
+- Web-driverManager
 - Requests
 - Selenium
 - Pandas (for data storage)
